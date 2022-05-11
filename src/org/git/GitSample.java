@@ -7,6 +7,9 @@ public class GitSample {
 		int a=10;
 		System.out.println(a);
 		
+		int c=50;
+		System.out.println(c);
+		
 	}
 
 
